@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mycompany.flight.FlightSearchTest
 -------------------------------------------------------------------------------
-Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.487 s - in com.mycompany.flight.FlightSearchTest
+Tests run: 20, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.492 s - in com.mycompany.flight.FlightSearchTest
